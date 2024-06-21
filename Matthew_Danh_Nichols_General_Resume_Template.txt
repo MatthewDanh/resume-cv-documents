@@ -1,0 +1,85 @@
+
+Matthew Danh Nichols
+15867 West Remington Drive
+Surprise, AZ 85374
+(602) 394-2758
+Matthew.Danh@GMail.com
+LinkedIn Profile
+
+Objective
+A detail-oriented and proactive Computer Programming and Security student seeking a [specific job title] position to leverage skills in [relevant skill] and [relevant skill] to [goal related to the job].
+
+Experience
+Ask Wonder; Research Analyst
+Remote, NY; 01/2018 - Present
+- Conducted comprehensive market research and data analysis, including competitor and consumer analysis, contributing to over 20 insightful reports.
+- Utilized SQL and other data management tools to handle large datasets and extract meaningful insights.
+- Consolidated complex data into clear, concise presentations, aiding in strategic decision-making.
+
+Bookseller; Barnes & Noble
+Surprise, AZ; 11/2019 - 04/2021
+- Employed consultative sales techniques to understand and meet customer needs, enhancing customer satisfaction.
+- Recommended relevant products and services based on customer preferences, driving sales performance.
+- Established strong selling relationships with customers through effective interpersonal and communication skills.
+
+English Tutor; StudyPool
+Remote, 09/2019 - 05/2020
+- Developed personalized reading and writing tutoring plans to address student weaknesses, motivating 6 students to build confidence.
+- Fostered a deeper understanding of material by adjusting approach to problems.
+- Successfully improved students' academic performance by implementing effective tutoring strategies.
+
+Education
+Estrella Mountain Community College
+Avondale, AZ; 01/2022 - Present
+- AAS in Programming & Systems Analysis
+- GPA: 3.477
+
+Relevant Coursework
+- Ethics in IT
+- College Algebra/Functions
+- Management Information Systems
+- Python Programming Level II
+- Biology Concepts
+- Critical Reading & Critical Thinking
+- Python Programming: Level I
+- Introduction to Networking
+- MYSQL Database
+- Install & Config Windows 10
+- Successful College Reading
+- Introduction to Javascript
+- Macroeconomic Principles
+- Introduction to Business
+- Two-Dimensional Design
+- Interpersonal Communication
+- Introduction to Social Media
+- Survey Computer Info Systems
+- Internet/Web Dev Lev I
+- Object-Oriented Programming
+- C++: Level I
+- Legal & Ethical Regulatory Issues in Business
+
+Skills
+- Microsoft Office Suite (Advanced)
+- Google Workspace (Intermediate)
+- Programming (Intermediate)
+- Systems Analysis (Intermediate)
+- Teamwork and Collaboration (Advanced)
+- Web Development Projects (Intermediate)
+- Interpersonal Communication (Advanced)
+- Python (Intermediate)
+- SQL (Intermediate)
+- Data Analysis (Advanced)
+- Customer Service (Advanced)
+- Multitasking (Advanced)
+
+Certifications
+- Google Certification in Project Management
+
+Projects
+- HTML Calculator Project using Jinja and Flask, featuring sleek and modern CSS with linear gradients and shadows for depth, utilizing a black, white, and grey color palette with teal accents.
+- Game Jam Submission: Participated and completed a Game Jam with a submission rated with my mentor. [Project Link](https://tripleg58.itch.io/f-00)
+
+Interests
+- Interested in working in information technology law
+- Passionate about giving back to the community through involvement with local LGBT organizations
+- Excited about creating a digital community for designers, developers, and content creators
