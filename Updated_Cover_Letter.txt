@@ -1,0 +1,29 @@
+
+Matthew Danh Nichols
+15867 West Remington Drive
+Surprise, AZ 85374
+(602) 394-2758
+Matthew.Danh@GMail.com
+
+[Date]
+
+[Recipient Name]
+[Company Name]
+[Company Address]
+[City, State, ZIP Code]
+
+Dear [Recipient Name],
+
+I am writing to express my interest in the [specific job title] position at [Company Name] as advertised on [where you found the job posting]. With a strong background in computer programming and security, coupled with my practical experience and academic achievements, I am excited about the opportunity to contribute to your team.
+
+During my time as a Research Analyst at Ask Wonder, I honed my skills in market research and data analysis, utilizing SQL and other data management tools to provide insightful reports that have been instrumental in strategic decision-making. My experience as a Bookseller at Barnes & Noble and as an English Tutor at StudyPool has equipped me with excellent customer service and interpersonal communication skills.
+
+I am currently pursuing an AAS in Programming & Systems Analysis at Estrella Mountain Community College, where I have maintained a GPA of 3.477. My coursework has provided me with a solid foundation in various programming languages, data analysis, and web development. Additionally, my involvement in projects such as an HTML Calculator using Jinja and Flask and a Game Jam submission (rated with my mentor) has allowed me to apply my skills in practical settings.
+
+I am particularly drawn to [Company Name] because of [specific reason related to the company or job role]. I am confident that my skills in [relevant skill], [relevant skill], and [relevant skill] will enable me to make a meaningful contribution to your team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and certifications align with the needs of your team. Please feel free to contact me at (602) 394-2758 or Matthew.Danh@GMail.com to schedule an interview.
+
+Sincerely,
+
+Matthew Danh Nichols
